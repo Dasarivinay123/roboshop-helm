@@ -1,0 +1,4 @@
+statefulset:
+  replicas: 1
+  imageRepo: dasarivinay/mongodb
+  imageVersion: 4.0.0
